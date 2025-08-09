@@ -34,3 +34,5 @@
 +    </div>
 +  );
 +};
+
+export default AISetupWelcome
